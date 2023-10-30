@@ -1,5 +1,5 @@
 # MultiWii
-
+This project involves building a Drone including the flight controller using MultiWii.
 ## Features
 
 - **Custom Design:** Describe how your project offers a customized drone and flight controller solution.
